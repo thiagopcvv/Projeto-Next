@@ -13,7 +13,7 @@ export default function Home() {
       <div className={styles.home}>
         <h1> Fala-Fut</h1>
         <main>
-          <p>Fala-Fut é um site onde você pode ver um teste de como usar next</p>
+          <p>Fala-Fut é um site onde você pode encontrar as descrições sobre os simbolos dos times de futebol</p>
         </main>
       </div>
       <div className={styles.visitar}>
